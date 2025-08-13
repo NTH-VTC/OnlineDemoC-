@@ -1,0 +1,22 @@
+[
+  { "Id": "1", "Name": "PlayerOne", "Level": 12, "Gold": 1500, "Win": 23, "Lose": 17, "Country": "VN" },
+  { "Id": "2", "Name": "ShadowWolf", "Level": 35, "Gold": 9800, "Win": 200, "Lose": 145, "Country": "US" },
+  { "Id": "3", "Name": "CrimsonFox", "Level": 28, "Gold": 5600, "Win": 150, "Lose": 90, "Country": "JP" },
+  { "Id": "4", "Name": "IronFist", "Level": 45, "Gold": 23000, "Win": 400, "Lose": 100, "Country": "KR" },
+  { "Id": "5", "Name": "SilentArrow", "Level": 10, "Gold": 800, "Win": 12, "Lose": 20, "Country": "VN" },
+  { "Id": "6", "Name": "StormBreaker", "Level": 50, "Gold": 50000, "Win": 480, "Lose": 20, "Country": "US" },
+  { "Id": "7", "Name": "LunarMage", "Level": 22, "Gold": 3200, "Win": 95, "Lose": 85, "Country": "UK" },
+  { "Id": "8", "Name": "BladeMaster", "Level": 18, "Gold": 2100, "Win": 60, "Lose": 40, "Country": "JP" },
+  { "Id": "9", "Name": "ShadowNinja", "Level": 40, "Gold": 27000, "Win": 350, "Lose": 150, "Country": "KR" },
+  { "Id": "10", "Name": "PhoenixRider", "Level": 15, "Gold": 1200, "Win": 40, "Lose": 30, "Country": "VN" },
+  { "Id": "11", "Name": "IceDragon", "Level": 27, "Gold": 5000, "Win": 130, "Lose": 120, "Country": "US" },
+  { "Id": "12", "Name": "DarkHunter", "Level": 33, "Gold": 15000, "Win": 250, "Lose": 150, "Country": "JP" },
+  { "Id": "13", "Name": "SilverBlade", "Level": 20, "Gold": 2800, "Win": 70, "Lose": 60, "Country": "UK" },
+  { "Id": "14", "Name": "GoldenEye", "Level": 46, "Gold": 35000, "Win": 420, "Lose": 80, "Country": "VN" },
+  { "Id": "15", "Name": "NightWalker", "Level": 14, "Gold": 1000, "Win": 25, "Lose": 25, "Country": "KR" },
+  { "Id": "16", "Name": "FlameSword", "Level": 37, "Gold": 17000, "Win": 300, "Lose": 200, "Country": "US" },
+  { "Id": "17", "Name": "StormAssassin", "Level": 25, "Gold": 4200, "Win": 110, "Lose": 90, "Country": "JP" },
+  { "Id": "18", "Name": "WindSamurai", "Level": 48, "Gold": 40000, "Win": 450, "Lose": 50, "Country": "KR" },
+  { "Id": "19", "Name": "FrostWizard", "Level": 19, "Gold": 2500, "Win": 65, "Lose": 55, "Country": "UK" },
+  { "Id": "20", "Name": "ThunderKnight", "Level": 30, "Gold": 8000, "Win": 180, "Lose": 120, "Country": "VN" }
+]
